@@ -1,7 +1,7 @@
 name:                password-manager
 version:             0.1.0.0
 github:              "HaidarAji/password-manager"
-license:             BSD-3-Clause
+license:             MIT
 author:              "Haidar Aji"
 maintainer:          "radenhaidar.prabowo@gmail.com"
 copyright:           "BSD"
